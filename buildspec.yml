@@ -10,4 +10,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/Springboot-0.0.1-SNAPSHOT.war
+    - target/SprinProject-0.0.1-SNAPSHOT.war
