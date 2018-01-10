@@ -7,7 +7,6 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-      - mvn package
 artifacts:
   files:
     - target/SprinProject-0.0.1-SNAPSHOT.war
