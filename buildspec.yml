@@ -9,4 +9,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - root/SprinProject-0.0.1-SNAPSHOT.war
+    - src/SprinProject-0.0.1-SNAPSHOT.war
